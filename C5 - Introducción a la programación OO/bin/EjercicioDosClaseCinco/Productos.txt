@@ -1,0 +1,5 @@
+Destornillador,#3234, 20
+Lampara,#5344, 15
+Zapatilla Puma,#7754, 120
+Remera Nike Blanca,#5254, 63
+Vino Tinto,#8524, 221
